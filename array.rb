@@ -12,6 +12,7 @@ break if value ==
 print "So I am not so sure what we really need to do I will try a arrray"
 print "I will write put numbers related to something random"
 
+print "these are the instuctions"
 
 def main
   # we need an array to store our data
