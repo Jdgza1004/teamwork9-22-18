@@ -10,3 +10,4 @@ break if value ==
 -output data
 =end
 print "So I am not so sure what we really need to do I will try a arrray"
+print "I will write put numbers related to something random"
